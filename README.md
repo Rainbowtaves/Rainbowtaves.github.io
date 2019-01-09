@@ -7,4 +7,4 @@
 [Проект Minecraft](https://hardmc.ru)
 [Telegram](https://t.me/rainbowtaves)
 
-######Powered by Github
+####Powered by Github
